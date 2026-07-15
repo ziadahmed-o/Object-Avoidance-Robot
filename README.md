@@ -1,13 +1,6 @@
 # 🤖 Autonomous Object-Avoidance Robot
 
 A fully functional autonomous robot designed to navigate environments while detecting and avoiding obstacles in real-time.
-
-<p align="center">
-  <img src="robot demo.gif.gif" width="600" alt="Robot in Action"/>
-</p>
-
----
-
 ## 🛠️ Development Gallery
 
 | Phase | Detail |
@@ -15,6 +8,11 @@ A fully functional autonomous robot designed to navigate environments while dete
 | 🚀 Robot Action | <img src="robot action.jpeg" width="300"/> |
 | 🛠️ System Setup | <img src="robot setup.jpeg" width="300"/> |
 | 🧑‍💻 Developer Work | <img src="developer with robot.jpeg" width="300"/> |
+
+---
+<p align="center">
+  <img src="robot demo.gif.gif" width="600" alt="Robot in Action"/>
+</p>
 
 ---
 
