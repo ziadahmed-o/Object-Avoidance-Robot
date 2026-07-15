@@ -3,7 +3,7 @@
 A fully functional autonomous robot designed to navigate environments while detecting and avoiding obstacles in real-time.
 
 <p align="center">
-  <img src="robot demo.gif" width="600" alt="Robot in Action"/>
+  <img src="robot demo.gif.gif" width="600" alt="Robot in Action"/>
 </p>
 
 ---
