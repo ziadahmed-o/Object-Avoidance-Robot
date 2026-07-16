@@ -8,7 +8,7 @@ A fully functional autonomous robot designed to navigate environments while dete
 | 🚀 Robot Action | <img src="robot action.jpeg" width="300"/> |
 | 🛠️ System Setup | <img src="robot setup.jpeg" width="300"/> |
 | 🧑‍💻 Developer Work | <img src="developer with robot.jpeg" width="300"/> |
-
+| ⚙️ Source Code | [اضغط هنا لفتح كود الأردوينو بالكامل](./Object_Avoidance_Robot__Modified_code_3.txt.ino) |
 ---
 <p align="center">
   <img src="robot demo.gif.gif" width="600" alt="Robot in Action"/>
@@ -27,7 +27,7 @@ A fully functional autonomous robot designed to navigate environments while dete
 <p align="center">
   <img src="Code.png" width="600" alt="Arduino Code"/>
 </p>
-| ⚙️ Source Code | [اضغط هنا لفتح كود الأردوينو بالكامل](./Object_Avoidance_Robot__Modified_code_3.txt.ino) |
+
 ---
 
 ## ✉️ Contact & Professional Inquiries
