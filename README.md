@@ -33,4 +33,4 @@ A fully functional autonomous robot designed to navigate environments while dete
 ## ✉️ Contact & Professional Inquiries
 Designed and developed by **Ziad Ahmed**
 * **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/ziad-ahmed-819906370)
-* **Location:** Cairo, Egypt 
+* **Location:** Cairo, Egypt
